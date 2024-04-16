@@ -2,6 +2,7 @@
 ## pip install python-dotenv
 
 import requests
+print(requests.__file__)
 import json
 from datetime import datetime
 
